@@ -1,4 +1,4 @@
-# 2020H-CR460-terraform-2
+# 2020H-CR460-terraform-2.
 Fichier terraform pour création petit déploiement IaaS
 * 2 machines distinctes
   * Ubuntu
